@@ -161,3 +161,9 @@
 | **🇬🇧 英国** | • **IC** AIAI 🎉 **Offer**<br>• **UCL** AIDE ❌ **Rejection**<br>• **Edinburgh** CS / AI 🎉 **Offer**<br>• **Manchester** ACS 🎉 **Offer** |
 | **🇸🇬 新加坡** | • **NUS** MComp CS 🎉 **Offer**<br>• **NTU** MSAI ❌ **Rejection** |
 | **🇨🇭 瑞士** | • **ETH Zurich** MSc CS ❌ **Rejection**<br>• **EPFL** MSc CS ❌ **Rejection** |
+
+> **💡 申请复盘与个人感悟：**
+> 
+> 在回顾整个申请季时，我发现自己在**美国 ECE 类的项目**（如 UCLA、UT Austin、GT 等）上全军覆没。回看材料，主要原因在于当时为了图省事，给 ECE 项目**直接复用了纯 CS 的文书**，加上我个人背景中的**硬件/电路相关经历较少**，导致文书呈现出来的动机、技术栈与 ECE 招生偏好严重失配（Mismatch）。
+>
+> 建议大家在选择项目和准备材料时，**一定要仔细衡量项目审核偏好与自身背景、未来职业规划的契合度**。不要盲目为了“跨申”或“曲线救国”而硬套文书，针对不同细分方向（CS / ECE / Data）做有针对性的背景展示与文书定制，才能最大化申请成功率。
